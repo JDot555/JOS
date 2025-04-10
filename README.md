@@ -1,18 +1,9 @@
-this is a simple java program which take command input and full fill's you request
-
-if you want to run the browser you have to install JDK min version is 11 you can also run it with JDK 23
-JDK 23 Download:
-               https://www.oracle.com/java/technologies/downloads/#jdk23-windows
-               
-you will also need to download javafx:
-
-https://drive.google.com/drive/folders/1g0ZyibGatwEnXhpQtaLb7VMSC4G96aOZ?usp=sharing
-               
-you just have to click the JOS.exe file and run it.
+This is a simple java program which take command input and full fill's you request just like CLI operating system.
+You just have to click the JOS.exe file and run it.
 
 Available commands:
 
-i) listen to directory and file
+1) Listen to directory and file
 
 ls
 
@@ -20,19 +11,21 @@ ls -all
 
 ls --all
 
-ii) move from directory to directory
+The last two have two ls commands have different funtions figure them out your self.
+
+2) Move from directory to directory
 
 cd <directory/path/name>
 
 cd
 
-iii) create a file or folder
+3) Create a file or folder
 
 create <file name>
 
 create dir <folder name>
 
-iv)l aunch editor
+4) Launch editor
 
 editor
 
