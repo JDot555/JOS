@@ -60,7 +60,7 @@ The last two have two ls commands have different funtions figure them out your s
 10) clear screen:
 
   cls
-  
+
   clear
 
 11) Launch browser:
