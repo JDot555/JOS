@@ -1,4 +1,4 @@
-# Simple Java Operating System Simulator
+# JDot Operating system - JOS
 
 This is a simple Java program that takes command input and fulfills your request, similar to a CLI operating system. You can run it by clicking the `JOS.exe` file.
 
