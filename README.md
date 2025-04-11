@@ -3,77 +3,78 @@ You just have to click the JOS.exe file and run it.
 
 Available commands:
 
-1) Listen to directory and file
+1) Listen to directory and file:
 
-ls
-
-ls -all
-
-ls --all
+  ls
+  
+  ls -all
+  
+  ls --all
 
 The last two have two ls commands have different funtions figure them out your self.
 
-2) Move from directory to directory
+2) Move from directory to directory:
 
-cd <directory/path/name>
+  cd <directory/path/name>
+  
+  cd
 
-cd
+3) Create a file or folder:
 
-3) Create a file or folder
-
-create <file name>
-
-create dir <folder name>
+  create <file name>
+  
+  create dir <folder name>
 
 4) Launch editor
 
-editor
+  editor
 
-v) read frm a file
+5) Read frm a file:
 
-read <file name>
+  read <file name>
 
-vi) rename a file or folder
+6) Rename a file or folder:
 
-rename <oldName> <newName>
+  rename <oldName> <newName>
+  
+  rename dir <oldName> <newName>
 
-rename dir <oldName> <newName>
+7) Copy a file or folder to another directory or make a copy in the same directory:
+  
+  cp <file name> <new/file/path/filename>
+  
+  cp dir <folder name> <new/folder/path/file name>
 
-vii) copy a file or folder to another directory or make a copy in the same directory
+8) Move a file or folder to another directory:
 
-cp <file name> <new/file/path/filename>
+  mv <file name> <new/file/path/filename>
+  
+  mv dir <folder name> <new/folder/path/file name>
 
-cp dir <folder name> <new/folder/path/file name>
+9) Remove file or folder:
 
-viii) move a file or folder to another directory
+  rm <file name>
+  
+  rm dir <folder name>
 
-mv <file name> <new/file/path/filename>
+10) clear screen:
 
-mv dir <folder name> <new/folder/path/file name>
+  cls
+  
+  clear
 
-ix) remove file or folder
+11) Launch browser:
+  
+  browse
+  
+  browser
 
-rm <file name>
+12) Show help:
 
-rm dir <folder name>
+  -help
+  
+  -h
 
-x) clear screen
+13) Exit OS:
 
-cls
-clear
-
-xi) launch browser
-
-browse
-
-browser
-
-xii) show help
-
--help
-
--h
-
-xiii) exit OS
-
-exit
+  exit
